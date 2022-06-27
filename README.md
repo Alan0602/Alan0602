@@ -1,3 +1,6 @@
+![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/Enter_Mike.gif?raw=true)
+
+
 - 👋 Hi, I’m @Alan0602
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

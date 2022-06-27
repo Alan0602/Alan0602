@@ -1,4 +1,4 @@
-![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/Enter_Alan0602.gif?raw=true)
+
 
 
 

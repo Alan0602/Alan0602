@@ -18,11 +18,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alan0602&count_private=true&show_icons=true&bg_color=F7F9F9" />
-<!---
-Alan0602/Alan0602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <!-- Grid Snake -->
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"

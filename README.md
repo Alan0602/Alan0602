@@ -1,6 +1,9 @@
 <h2 align="left">
  <abc>
-  <br> I'm Alan K Anil <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br><br>
+  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+im+Alan+K+Anil+.+.+.+!)](https://git.io/typing-svg) bye...
+ <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+
 
   <h1 align="center">🖥️ Tech Stack</h1>
 
@@ -10,9 +13,24 @@
 ##
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alan0602&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alan0602&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alan0602&theme=github_dark&utcOffset=8)
+<!-- GitHub Profile Summary Cards -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alan0602&theme=github_dark" alt="GitHub Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alan0602&theme=github_dark" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alan0602&theme=github_dark&utcOffset=8" alt="Productive Time Stats" />
+</p>
+
+
+<!-- Center the GitHub Streak -->
+<p align="center">
+    My GitHub Contribution Streak
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan0602&theme=dark" alt="GitHub Streak" />
+</p>
+
+
 
 <p align="center"> 
   Visitor count<br>

@@ -22,9 +22,9 @@
 
 
 <!-- Center the GitHub Streak -->
-<p align="center">
+<h2 align="center">
     My GitHub Contribution Streak
-</p>
+</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan0602&theme=dark" alt="GitHub Streak" />

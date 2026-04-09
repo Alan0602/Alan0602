@@ -46,19 +46,25 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alan0602&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alan0602&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alan0602&theme=github_dark&utcOffset=8" />
-</p>
+<div align="center">
+ 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alan0602&theme=github_dark" alt="Profile Details" width="100%" />
+ 
+<br/>
+ 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alan0602&theme=github_dark" alt="Stats" height="180" />
+&nbsp;&nbsp;
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alan0602&theme=github_dark&utcOffset=5.5" alt="Productive Time" height="180" />
+ 
+</div>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan0602&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan0602&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
 
 ---
 
